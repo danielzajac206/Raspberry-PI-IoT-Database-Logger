@@ -11,7 +11,7 @@ Download the github source code
 
 Compile with:
 
-  ###gcc main.c sqlite3.c controller.c -o main.exe -I. -Wall
+  ### gcc main.c sqlite3.c controller.c -o main.exe -I. -Wall
 
 Then run
 
